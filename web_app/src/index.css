@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --color-primary: #059669;
+  --color-primary-dark: #047857;
+  --gradient-green: linear-gradient(135deg, #059669 0%, #10b981 50%, #34d399 100%);
+  --shadow-soft: 0 4px 20px rgba(5, 150, 105, 0.12);
+  --shadow-card: 0 10px 40px rgba(5, 150, 105, 0.1);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(160deg, #f0fdf4 0%, #ecfdf5 40%, #d1fae5 80%, #a7f3d0 100%);
+}
+
