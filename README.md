@@ -223,56 +223,6 @@ MongoDB – for scalable user + product history (future / optional).
 EcoVation is built on top of the original Sustain-ify concept.
 The same spirit, with a new implementation.
 <a name="team"></a>
-👥 Team
-> Keep or update these to your actual team details.
-<p align="center">Surya</p>
-<p align="center">
-<img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/surya.jpg" alt="Surya's Picture" width="150">
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/surya-santhosh-64a08b297/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/ss.surya.ss/">
-<img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-</a>
-</p>
-<p align="center">Amrit</p>
-<p align="center">
-<img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/amrith.jpg" alt="Amrit's Picture" width="150">
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/macromrit/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/amritsubramanian.c/">
-<img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-</a>
-</p>
-<p align="center">Navneet</p>
-<p align="center">
-<img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/me.jpg" alt="Navneet's Picture" width="150">
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/navneet-krishna-669000279/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/krrishh/">
-<img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-</a>
-</p>
-<p align="center">Srikar</p>
-<p align="center">
-<img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/srikar.jpg" alt="Srikar's Picture" width="150">
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/kottakki-srikar-vamsi/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/srikarvamsi1230/">
-<img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-</a>
-</p>
 <div align="center">
 <p align="right"><a href="#readme-top">↑ Back to Top ↑</a></p>
 <p align="left">Made with ❤️ for a sustainable future.</p>
